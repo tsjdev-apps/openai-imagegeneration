@@ -30,6 +30,8 @@ You will be presented with a link to the generated image and also an extended ve
 
 The following image is the generated image for the prompt `A small cat sitting in front of the Sydney Opera House.`
 
+![App](./docs/generated-image.png)
+
 
 ## Blog Posts / YouTube Video
 
